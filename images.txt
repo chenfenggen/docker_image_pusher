@@ -1,1 +1,2 @@
-piasy/apprtc-server:mp_a465e1a
+canyan/janus-gateway:master_cefca79700bdadd32d759ce65ba3805552a4d312
+mpromonet/webrtc-streamer:latest-amd64
