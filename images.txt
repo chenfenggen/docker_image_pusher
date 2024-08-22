@@ -1,4 +1,3 @@
-bitnami/kafka
-spark
-bitnami/spark
-flink
+openresty/openresty
+bitnami/openresty
+alpine
