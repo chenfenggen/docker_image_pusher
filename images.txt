@@ -1,2 +1,4 @@
-canyan/janus-gateway:master_cefca79700bdadd32d759ce65ba3805552a4d312
-mpromonet/webrtc-streamer:latest-amd64
+bitnami/kafka
+spark
+bitnami/spark
+flink
