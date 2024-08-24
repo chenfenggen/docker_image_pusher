@@ -1,3 +1,1 @@
-openresty/openresty
-bitnami/openresty
-alpine
+openjdk:24-ea-jdk-slim-bullseye@sha1:423a03d0f224
