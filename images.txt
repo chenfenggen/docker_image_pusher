@@ -1,1 +1,1 @@
-openjdk:24-ea-jdk-slim-bullseye@sha256:423a03d0f224
+--platform arm64 openjdk:24-slim-bullseye
