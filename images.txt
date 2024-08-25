@@ -1,1 +1,5 @@
---platform arm64 openjdk:24-slim-bullseye
+--platform arm64 nginx:stable-perl
+--platform arm64 httpd:latest
+--platform arm64 tomcat:jre11-temurin-noble
+--platform arm64 mysql:8.4.2-oraclelinux9
+--platform arm64 mysql:5.7.44-oraclelinux7
