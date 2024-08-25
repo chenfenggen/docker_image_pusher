@@ -1,5 +1,5 @@
---platform arm64 nginx:stable-perl
---platform arm64 httpd:latest
---platform arm64 tomcat:jre11-temurin-noble
---platform arm64 mysql:8.4.2-oraclelinux9
---platform arm64 mysql:5.7.44-oraclelinux7
+--platform arm64 python:3.9.19-bullseye
+--platform arm64 php:8.3.11RC2-zts-alpine3.20
+--platform arm64 node:slim
+ubuntu/postgres:latest
+--platform arm64 ubuntu/postgres:latest
