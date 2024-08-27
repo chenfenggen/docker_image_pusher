@@ -1,5 +1,1 @@
---platform arm64 python:3.9.19-bullseye
---platform arm64 php:8.3.11RC2-zts-alpine3.20
---platform arm64 node:slim
-ubuntu/postgres:latest
---platform arm64 ubuntu/postgres:latest
+piasy/webrtc-build
