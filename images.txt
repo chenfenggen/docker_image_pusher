@@ -1,1 +1,2 @@
-piasy/webrtc-build
+ubuntu:latest --platform amd64
+ubuntu:latest --platform arm64
