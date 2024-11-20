@@ -1,0 +1,2 @@
+--platform amd64 ubuntu:latest 
+--platform arm64 ubuntu:latest 
