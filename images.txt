@@ -1,2 +1,2 @@
-docker.io/flannel/flannel-cni-plugin:v1.6.0-flannel1
-docker.io/flannel/flannel:v0.26.1
+--platform amd64 ubuntu:25.04
+--platform arm64 ubuntu:25.04
