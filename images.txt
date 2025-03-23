@@ -1,3 +1,1 @@
-alinux-optimized-tensorflow-registry.cn-hangzhou.cr.aliyuncs.com/tensorflow/tensorflow2:v1.0
-dsw-registry.cn-hangzhou.cr.aliyuncs.com/pai/pytorch:1.8PAI-gpu-py36-cu101-ubuntu18.04
-dsw-registry.cn-hangzhou.cr.aliyuncs.com/pai/pytorch:1.8-cpu-py36-ubuntu18.04
+--platform amd64 tomcat:9.0.102-jdk11-corretto-al2
