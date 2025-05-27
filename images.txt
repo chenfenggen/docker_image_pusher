@@ -1,1 +1,1 @@
---platform amd64 tomcat:9.0.102-jdk11-corretto-al2
+coturn/coturn
