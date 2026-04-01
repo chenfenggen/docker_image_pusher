@@ -1,3 +1,2 @@
---platform amd64 ubuntu:latest 
---platform arm64 ubuntu:latest 
---platform amd64 centos:latest
+--platform amd64 almalinux:minimal 
+--platform arm64 almalinux:minimal
