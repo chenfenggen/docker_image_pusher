@@ -1,2 +1,2 @@
---platform amd64 almalinux:minimal 
---platform arm64 almalinux:minimal
+--platform amd64 almalinux:latest 
+--platform arm64 almalinux:latest
