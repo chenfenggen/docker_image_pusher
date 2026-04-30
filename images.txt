@@ -1,2 +1,2 @@
---platform amd64 almalinux:latest 
---platform arm64 almalinux:latest
+--platform amd64 emqx:5.8
+--platform arm64 emqx:5.8
